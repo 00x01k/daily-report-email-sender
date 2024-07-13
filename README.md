@@ -8,7 +8,8 @@ Daily Report Email Sender
 Установка
 Настройка
 Использование
-Планировщик задач
+Планировщик задач00x01k
+
 Unix (cron)
 Windows (Task Scheduler)
 Структура проекта
@@ -25,7 +26,7 @@ Python 3.x
 
 sh
 Копировать код
-git clone https://github.com/yourusername/daily-report-email-sender.git
+git clone https://github.com/00x01k/daily-report-email-sender.git
 cd daily-report-email-sender
 Создайте и активируйте виртуальное окружение (необязательно, но рекомендуется):
 
@@ -71,7 +72,7 @@ Python 3.x
 
 sh
 Копировать код
-git clone https://github.com/yourusername/daily-report-email-sender.git
+git clone https://github.com/00x01k/daily-report-email-sender.git
 cd daily-report-email-sender
 Создайте и активируйте виртуальное окружение (необязательно, но рекомендуется):
 
