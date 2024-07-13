@@ -1,0 +1,15 @@
+email:
+  to_email:
+    - "recipient1@example.com"
+    - "recipient2@example.com"
+  from_email: "your_email@example.com"
+  subject: "Ежедневный отчет"
+  body: "templates/email_body.html"
+  attachment_path: "path_to_report.pdf"
+smtp:
+  server: "smtp.gmail.com"
+  port: 465
+  use_ssl: true
+  login: true
+  username: "your_email@example.com"
+  password: "your_password"
